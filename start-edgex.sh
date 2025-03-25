@@ -8,4 +8,4 @@ cd /var/lib/software-update/modules/0/ || exit
 
 sudo docker compose up -d
 
-docker compose up -d
+#docker compose up -d
