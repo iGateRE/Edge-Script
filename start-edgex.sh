@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo cd /var/lib/software-update/modules/0/
+cd /var/lib/software-update/modules/0/ || exit
 
 sudo docker compose up -d
