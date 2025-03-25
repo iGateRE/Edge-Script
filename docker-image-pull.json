@@ -1,0 +1,13 @@
+{
+"type": "service_account",
+"project_id": "iplon-india",
+"private_key_id": "a36b099985321863d33cfc08813f144f884252a0",
+"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC97miaoa+tiU/y\nizTQduNVmDa0m8CSpM7+ShD1SmoOLMIkNf2FcSwwKDO16iTt1QSmUiQKpDpRuXPf\nLDBS1J2oofaQmFUoUurdft/J8wqWqEpPnOpqM4b/cl04nreAuDKwhlkg2fqjNWNi\nx3Q1fBHkarq5OKzUrJDImwpvqGuzi1qJ7/baBNFhcRh615bcMyzEnksyieF2xYo2\nJzl7rBxp60l6DHoDhk9pqqg0cSmGNd62tVlzUgUPEjIoIVHlr7+pOGLRnkoKZsy1\nXbP85oj3qBPhXiPT3I08Ip3sdaVrQmKqZvjdQ/j0gO2gJHHeSuuk+Yw3pfLp6oeo\nmGQvgAYLAgMBAAECggEAWY7N70AXXP423vjKBhRRPN6hyQb6RouE+T4Gggs9OALd\n5oI40Y/cVLbYL0rBcA32e9CWoxfuUfPfEdg9zwjncIkygNr7qKB0k83MC2dZUlH3\nfFPS6xHx8YjFMToR8BWq/TbUVxvBxeyaOQ0wnDmtHCZBdq4lPMFEIfuNb7ocUtOt\n8VMMZUJqkKRquzhQxDKoHRrXqnX4PuaVLFbP7FaAPWlu7gi7mrIBk/n/ruKI6Te9\nq81Btu27vhw+66hJVbX3NXwOapfKjrhf/I3BQCQEsWYorNzJyR7AMCbwCgXqzNfN\nxvVe+l0BI05MIUMuyD70SVm+PvY25XSUEkYYQAvqlQKBgQDtVsNjX1PCE+DBc/AG\nN34zHeDcfiHhxGSVxvulzkbxPp4d40YlHv/uWeQ8rpImg7j0bomSPSHUB20YjJLx\nDSUDT+fu45wY3YYs6ujaqVcXTRoG5YXrmQ0r5+zXZAD4o0y9hQSFjLxR3cVAMbWW\nfPg9CTVDGO65xpx3vKFBtaSKrQKBgQDM3WihRy67N/vdXpEUNBBzM7k/KN4O6FJ7\nWq34iyQXkuOHQdUI5y3XIZTGrq5ZL/Q+o4VFePiaiabfYR5HFRAvbqoVbWmWzgZb\nTF/RMkfiDaz0OfvtV5BfbbUhPYWpuNtTUUXJtSx+heXzrRMwTBBgLiBM+Xuqau38\npVRWz0xilwKBgQDnPJ1peDs23/8e/EJjDDYcv4OR0CJawOnvM8uCpBNigEu1evWg\nvS9FnrdMmBk1BSlynS/UF1OaLRIR1QRlbxUcwQGMMp6na02K/eSZBlwgC7LL/VwZ\nSykWGgUbZge8N/5QuATLyW7BpHzGKqhtUpzZets14FjXD7bqwhGq37rMkQKBgQCY\n8jPLNHmPDJzdCF0H2Fbvqw4COWCPgKMTtP9tL3QipWd48404uF9g3ZFVQ9SmgUa3\n/RziYQ45Uctjuf4A05jh0JzqomTSUb4tKzfd1swT2GHnc+LBrz36AM3ZozTHIVud\nOHABx2EQlKa45d4NkLwpEkbLMPdCo9JJbKUqqlk8wQKBgQDfc9118i3KLIro9bSh\nMZJDAjswqUFJzN7W781TkwTiCE+RdFU+hmpFTcft2NtevoGz5j4K6/2PkPfg4eT5\nH6b1KF5GkvxjUhaLr140oGcvaeGiG6fWm0/5Xe2lOW2ntYSOXRVuFUhDPIeD8OFz\nWZIo+LFxEIFsdGb7aOdkCrMAkw==\n-----END PRIVATE KEY-----\n",
+"client_email": "container-registry-pull@iplon-india.iam.gserviceaccount.com",
+"client_id": "108912529050927506685",
+"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+"token_uri": "https://oauth2.googleapis.com/token",
+"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/container-registry-pull%40iplon-india.iam.gserviceaccount.com",
+"universe_domain": "googleapis.com"
+}
